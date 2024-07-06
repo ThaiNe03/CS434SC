@@ -1,0 +1,61 @@
+.navbar-custom {
+  background-color: #a28089;
+}
+.na {
+  background-color: #beb6f2;
+}
+.navbar-brand,
+.nav-link {
+  color: #000;
+}
+
+/* Custom styles for the login card */
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #a28089;
+  border-color: #a28089;
+}
+
+.btn-primary:hover {
+  background-color: #8b5e6a;
+  border-color: #8b5e6a;
+}
+.zone {
+  width: 100%;
+  height: 100px;
+  background-color: #8f60bf;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  color: #fff;
+}
+
+.btn-custom {
+  width: 130px;
+  border-radius: 50px;
+  background-color: #079dd9;
+}
+.btn-login {
+  width: auto;
+  border-radius: 50px;
+  margin-left: 400px;
+  background-color: #079dd9;
+}
+
+.colb {
+  background-color: #ecd8f2;
+}
+.btn-login {
+  width: 130px;
+}
+.dk {
+  font-size: 40px;
+}
