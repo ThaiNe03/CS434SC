@@ -42,6 +42,7 @@ const AuctionInterface = () => {
           <button type="submit">Xác nhận</button>
         </form>
       </div>
+      <h1> MY new config</h1>
       <div className="user-actions">
         <button className="login-btn">Đăng nhập</button>
         <button className="logout-btn">Đăng xuất</button>
